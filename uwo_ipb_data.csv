@@ -1,0 +1,629 @@
+,links,attribute,faculty,program
+0,https://www.uwo.ca/ipb/databook/02/auartb02.html,Faculty Complement,ARTS and HUMANITIES,ARTS and HUMANITIES
+1,https://www.uwo.ca/ipb/databook/02/clsttb02.html,Faculty Complement,ARTS and HUMANITIES,CLASSICAL STUDIES
+2,https://www.uwo.ca/ipb/databook/02/engltb02.html,Faculty Complement,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+3,https://www.uwo.ca/ipb/databook/02/filmtb02.html,Faculty Complement,ARTS and HUMANITIES,FILM STUDIES
+4,https://www.uwo.ca/ipb/databook/02/frentb02.html,Faculty Complement,ARTS and HUMANITIES,FRENCH STUDIES
+5,https://www.uwo.ca/ipb/databook/02/ws__tb02.html,Faculty Complement,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+6,https://www.uwo.ca/ipb/databook/02/mll_tb02.html,Faculty Complement,ARTS and HUMANITIES,LANGUAGES and CULTURES
+7,https://www.uwo.ca/ipb/databook/02/philtb02.html,Faculty Complement,ARTS and HUMANITIES,PHILOSOPHY
+8,https://www.uwo.ca/ipb/databook/02/vsartb02.html,Faculty Complement,ARTS and HUMANITIES,VISUAL ARTS
+9,https://www.uwo.ca/ipb/databook/02/aub_tb02.html,Faculty Complement,BUSINESS,BUSINESS
+10,https://www.uwo.ca/ipb/databook/02/auedtb02.html,Faculty Complement,EDUCATION,EDUCATION
+11,https://www.uwo.ca/ipb/databook/02/aue_tb02.html,Faculty Complement,ENGINEERING,ENGINEERING
+12,https://www.uwo.ca/ipb/databook/02/cheetb02.html,Faculty Complement,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+13,https://www.uwo.ca/ipb/databook/02/civetb02.html,Faculty Complement,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+14,https://www.uwo.ca/ipb/databook/02/eleetb02.html,Faculty Complement,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+15,https://www.uwo.ca/ipb/databook/02/m_metb02.html,Faculty Complement,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+16,https://www.uwo.ca/ipb/databook/02/auhstb02.html,Faculty Complement,HEALTH SCIENCES,HEALTH SCIENCES
+17,https://www.uwo.ca/ipb/databook/02/bhsctb02.html,Faculty Complement,HEALTH SCIENCES,HEALTH STUDIES
+18,https://www.uwo.ca/ipb/databook/02/cd__tb02.html,Faculty Complement,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+19,https://www.uwo.ca/ipb/databook/02/kinetb02.html,Faculty Complement,HEALTH SCIENCES,KINESIOLOGY
+20,https://www.uwo.ca/ipb/databook/02/nurstb02.html,Faculty Complement,HEALTH SCIENCES,NURSING
+21,https://www.uwo.ca/ipb/databook/02/ot__tb02.html,Faculty Complement,HEALTH SCIENCES,OCCUPATIONAL THERAPY
+22,https://www.uwo.ca/ipb/databook/02/pt__tb02.html,Faculty Complement,HEALTH SCIENCES,PHYSICAL THERAPY
+23,https://www.uwo.ca/ipb/databook/02/auimtb02.html,Faculty Complement,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+24,https://www.uwo.ca/ipb/databook/02/aul_tb02.html,Faculty Complement,LAW,LAW
+25,https://www.uwo.ca/ipb/databook/02/aum_tb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),MEDICINE and DENTISTRY (MEDICINE)
+26,https://www.uwo.ca/ipb/databook/02/aud_tb02.html,Faculty Complement,MEDICINE and DENTISTRY (DENTISTRY),MEDICINE and DENTISTRY (DENTISTRY)
+27,https://www.uwo.ca/ipb/databook/02/anattb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+28,https://www.uwo.ca/ipb/databook/02/bioctb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+29,https://www.uwo.ca/ipb/databook/02/epidtb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+30,https://www.uwo.ca/ipb/databook/02/hms_tb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+31,https://www.uwo.ca/ipb/databook/02/bioptb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+32,https://www.uwo.ca/ipb/databook/02/m_i_tb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+33,https://www.uwo.ca/ipb/databook/02/pathtb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+34,https://www.uwo.ca/ipb/databook/02/p_p_tb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+35,https://www.uwo.ca/ipb/databook/02/robatb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),ROBARTS RESEARCH INSTITUTE
+36,https://www.uwo.ca/ipb/databook/02/imsatb02.html,Faculty Complement,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+37,https://www.uwo.ca/ipb/databook/02/aumutb02.html,Faculty Complement,MUSIC,MUSIC
+38,https://www.uwo.ca/ipb/databook/02/aus_tb02.html,Faculty Complement,SCIENCE,SCIENCE
+39,https://www.uwo.ca/ipb/databook/02/appmtb02.html,Faculty Complement,SCIENCE,APPLIED MATHEMATICS
+40,https://www.uwo.ca/ipb/databook/02/bioltb02.html,Faculty Complement,SCIENCE,BIOLOGY
+41,https://www.uwo.ca/ipb/databook/02/chemtb02.html,Faculty Complement,SCIENCE,CHEMISTRY
+42,https://www.uwo.ca/ipb/databook/02/cscitb02.html,Faculty Complement,SCIENCE,COMPUTER SCIENCE
+43,https://www.uwo.ca/ipb/databook/02/escitb02.html,Faculty Complement,SCIENCE,EARTH SCIENCES
+44,https://www.uwo.ca/ipb/databook/02/mathtb02.html,Faculty Complement,SCIENCE,MATHEMATICS
+45,https://www.uwo.ca/ipb/databook/02/p_a_tb02.html,Faculty Complement,SCIENCE,PHYSICS and ASTRONOMY
+46,https://www.uwo.ca/ipb/databook/02/sas_tb02.html,Faculty Complement,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+47,https://www.uwo.ca/ipb/databook/02/ausstb02.html,Faculty Complement,SOCIAL SCIENCE,SOCIAL SCIENCE
+48,https://www.uwo.ca/ipb/databook/02/anthtb02.html,Faculty Complement,SOCIAL SCIENCE,ANTHROPOLOGY
+49,https://www.uwo.ca/ipb/databook/02/econtb02.html,Faculty Complement,SOCIAL SCIENCE,ECONOMICS
+50,https://www.uwo.ca/ipb/databook/02/geogtb02.html,Faculty Complement,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+51,https://www.uwo.ca/ipb/databook/02/histtb02.html,Faculty Complement,SOCIAL SCIENCE,HISTORY
+52,https://www.uwo.ca/ipb/databook/02/caistb02.html,Faculty Complement,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+53,https://www.uwo.ca/ipb/databook/02/polstb02.html,Faculty Complement,SOCIAL SCIENCE,POLITICAL SCIENCE
+54,https://www.uwo.ca/ipb/databook/02/psyctb02.html,Faculty Complement,SOCIAL SCIENCE,PSYCHOLOGY
+55,https://www.uwo.ca/ipb/databook/02/soc_tb02.html,Faculty Complement,SOCIAL SCIENCE,SOCIOLOGY
+56,https://www.uwo.ca/ipb/databook/03/auartb03.html,Staff Complement,ARTS and HUMANITIES,ARTS and HUMANITIES
+57,https://www.uwo.ca/ipb/databook/03/clsttb03.html,Staff Complement,ARTS and HUMANITIES,CLASSICAL STUDIES
+58,https://www.uwo.ca/ipb/databook/03/engltb03.html,Staff Complement,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+59,https://www.uwo.ca/ipb/databook/03/filmtb03.html,Staff Complement,ARTS and HUMANITIES,FILM STUDIES
+60,https://www.uwo.ca/ipb/databook/03/frentb03.html,Staff Complement,ARTS and HUMANITIES,FRENCH STUDIES
+61,https://www.uwo.ca/ipb/databook/03/ws__tb03.html,Staff Complement,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+62,https://www.uwo.ca/ipb/databook/03/mll_tb03.html,Staff Complement,ARTS and HUMANITIES,LANGUAGES and CULTURES
+63,https://www.uwo.ca/ipb/databook/03/philtb03.html,Staff Complement,ARTS and HUMANITIES,PHILOSOPHY
+64,https://www.uwo.ca/ipb/databook/03/vsartb03.html,Staff Complement,ARTS and HUMANITIES,VISUAL ARTS
+65,https://www.uwo.ca/ipb/databook/03/aub_tb03.html,Staff Complement,BUSINESS,BUSINESS
+66,https://www.uwo.ca/ipb/databook/03/auedtb03.html,Staff Complement,EDUCATION,EDUCATION
+67,https://www.uwo.ca/ipb/databook/03/aue_tb03.html,Staff Complement,ENGINEERING,ENGINEERING
+68,https://www.uwo.ca/ipb/databook/03/cheetb03.html,Staff Complement,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+69,https://www.uwo.ca/ipb/databook/03/civetb03.html,Staff Complement,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+70,https://www.uwo.ca/ipb/databook/03/eleetb03.html,Staff Complement,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+71,https://www.uwo.ca/ipb/databook/03/m_metb03.html,Staff Complement,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+72,https://www.uwo.ca/ipb/databook/03/auhstb03.html,Staff Complement,HEALTH SCIENCES,HEALTH SCIENCES
+73,https://www.uwo.ca/ipb/databook/03/bhsctb03.html,Staff Complement,HEALTH SCIENCES,HEALTH STUDIES
+74,https://www.uwo.ca/ipb/databook/03/cd__tb03.html,Staff Complement,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+75,https://www.uwo.ca/ipb/databook/03/kinetb03.html,Staff Complement,HEALTH SCIENCES,KINESIOLOGY
+76,https://www.uwo.ca/ipb/databook/03/nurstb03.html,Staff Complement,HEALTH SCIENCES,NURSING
+77,https://www.uwo.ca/ipb/databook/03/ot__tb03.html,Staff Complement,HEALTH SCIENCES,OCCUPATIONAL THERAPY
+78,https://www.uwo.ca/ipb/databook/03/pt__tb03.html,Staff Complement,HEALTH SCIENCES,PHYSICAL THERAPY
+79,https://www.uwo.ca/ipb/databook/03/auimtb03.html,Staff Complement,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+80,https://www.uwo.ca/ipb/databook/03/aul_tb03.html,Staff Complement,LAW,LAW
+81,https://www.uwo.ca/ipb/databook/03/aum_tb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),MEDICINE and DENTISTRY (MEDICINE)
+82,https://www.uwo.ca/ipb/databook/03/aud_tb03.html,Staff Complement,MEDICINE and DENTISTRY (DENTISTRY),MEDICINE and DENTISTRY (DENTISTRY)
+83,https://www.uwo.ca/ipb/databook/03/anattb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+84,https://www.uwo.ca/ipb/databook/03/bioctb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+85,https://www.uwo.ca/ipb/databook/03/epidtb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+86,https://www.uwo.ca/ipb/databook/03/hms_tb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+87,https://www.uwo.ca/ipb/databook/03/bioptb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+88,https://www.uwo.ca/ipb/databook/03/m_i_tb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+89,https://www.uwo.ca/ipb/databook/03/pathtb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+90,https://www.uwo.ca/ipb/databook/03/p_p_tb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+91,https://www.uwo.ca/ipb/databook/03/robatb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),ROBARTS RESEARCH INSTITUTE
+92,https://www.uwo.ca/ipb/databook/03/imsatb03.html,Staff Complement,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+93,https://www.uwo.ca/ipb/databook/03/aumutb03.html,Staff Complement,MUSIC,MUSIC
+94,https://www.uwo.ca/ipb/databook/03/aus_tb03.html,Staff Complement,SCIENCE,SCIENCE
+95,https://www.uwo.ca/ipb/databook/03/appmtb03.html,Staff Complement,SCIENCE,APPLIED MATHEMATICS
+96,https://www.uwo.ca/ipb/databook/03/bioltb03.html,Staff Complement,SCIENCE,BIOLOGY
+97,https://www.uwo.ca/ipb/databook/03/chemtb03.html,Staff Complement,SCIENCE,CHEMISTRY
+98,https://www.uwo.ca/ipb/databook/03/cscitb03.html,Staff Complement,SCIENCE,COMPUTER SCIENCE
+99,https://www.uwo.ca/ipb/databook/03/escitb03.html,Staff Complement,SCIENCE,EARTH SCIENCES
+100,https://www.uwo.ca/ipb/databook/03/mathtb03.html,Staff Complement,SCIENCE,MATHEMATICS
+101,https://www.uwo.ca/ipb/databook/03/p_a_tb03.html,Staff Complement,SCIENCE,PHYSICS and ASTRONOMY
+102,https://www.uwo.ca/ipb/databook/03/sas_tb03.html,Staff Complement,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+103,https://www.uwo.ca/ipb/databook/03/ausstb03.html,Staff Complement,SOCIAL SCIENCE,SOCIAL SCIENCE
+104,https://www.uwo.ca/ipb/databook/03/anthtb03.html,Staff Complement,SOCIAL SCIENCE,ANTHROPOLOGY
+105,https://www.uwo.ca/ipb/databook/03/econtb03.html,Staff Complement,SOCIAL SCIENCE,ECONOMICS
+106,https://www.uwo.ca/ipb/databook/03/geogtb03.html,Staff Complement,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+107,https://www.uwo.ca/ipb/databook/03/histtb03.html,Staff Complement,SOCIAL SCIENCE,HISTORY
+108,https://www.uwo.ca/ipb/databook/03/caistb03.html,Staff Complement,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+109,https://www.uwo.ca/ipb/databook/03/polstb03.html,Staff Complement,SOCIAL SCIENCE,POLITICAL SCIENCE
+110,https://www.uwo.ca/ipb/databook/03/psyctb03.html,Staff Complement,SOCIAL SCIENCE,PSYCHOLOGY
+111,https://www.uwo.ca/ipb/databook/03/soc_tb03.html,Staff Complement,SOCIAL SCIENCE,SOCIOLOGY
+112,https://www.uwo.ca/ipb/databook/04/auartb04.html,Program Enrolment,ARTS and HUMANITIES,ARTS and HUMANITIES
+113,https://www.uwo.ca/ipb/databook/04/clsttb04.html,Program Enrolment,ARTS and HUMANITIES,CLASSICAL STUDIES
+114,https://www.uwo.ca/ipb/databook/04/engltb04.html,Program Enrolment,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+115,https://www.uwo.ca/ipb/databook/04/filmtb04.html,Program Enrolment,ARTS and HUMANITIES,FILM STUDIES
+116,https://www.uwo.ca/ipb/databook/04/frentb04.html,Program Enrolment,ARTS and HUMANITIES,FRENCH STUDIES
+117,https://www.uwo.ca/ipb/databook/04/ws__tb04.html,Program Enrolment,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+118,https://www.uwo.ca/ipb/databook/04/mll_tb04.html,Program Enrolment,ARTS and HUMANITIES,LANGUAGES and CULTURES
+119,https://www.uwo.ca/ipb/databook/04/philtb04.html,Program Enrolment,ARTS and HUMANITIES,PHILOSOPHY
+120,https://www.uwo.ca/ipb/databook/04/vsartb04.html,Program Enrolment,ARTS and HUMANITIES,VISUAL ARTS
+121,https://www.uwo.ca/ipb/databook/04/aub_tb04.html,Program Enrolment,BUSINESS,BUSINESS
+122,https://www.uwo.ca/ipb/databook/04/auedtb04.html,Program Enrolment,EDUCATION,EDUCATION
+123,https://www.uwo.ca/ipb/databook/04/aue_tb04.html,Program Enrolment,ENGINEERING,ENGINEERING
+124,https://www.uwo.ca/ipb/databook/04/cheetb04.html,Program Enrolment,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+125,https://www.uwo.ca/ipb/databook/04/civetb04.html,Program Enrolment,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+126,https://www.uwo.ca/ipb/databook/04/eleetb04.html,Program Enrolment,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+127,https://www.uwo.ca/ipb/databook/04/m_metb04.html,Program Enrolment,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+128,https://www.uwo.ca/ipb/databook/04/engstb04.html,Program Enrolment,ENGINEERING,ENGINEERING SCIENCE
+129,https://www.uwo.ca/ipb/databook/04/intetb04.html,Program Enrolment,ENGINEERING,INTEGRATED ENGINEERING
+130,https://www.uwo.ca/ipb/databook/04/mse_tb04.html,Program Enrolment,ENGINEERING,MECHATRONIC SYSTEM ENGINEERING
+131,https://www.uwo.ca/ipb/databook/04/auhstb04.html,Program Enrolment,HEALTH SCIENCES,HEALTH SCIENCES
+132,https://www.uwo.ca/ipb/databook/04/bhsctb04.html,Program Enrolment,HEALTH SCIENCES,HEALTH STUDIES
+133,https://www.uwo.ca/ipb/databook/04/cd__tb04.html,Program Enrolment,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+134,https://www.uwo.ca/ipb/databook/04/kinetb04.html,Program Enrolment,HEALTH SCIENCES,KINESIOLOGY
+135,https://www.uwo.ca/ipb/databook/04/nurstb04.html,Program Enrolment,HEALTH SCIENCES,NURSING
+136,https://www.uwo.ca/ipb/databook/04/ot__tb04.html,Program Enrolment,HEALTH SCIENCES,OCCUPATIONAL THERAPY
+137,https://www.uwo.ca/ipb/databook/04/pt__tb04.html,Program Enrolment,HEALTH SCIENCES,PHYSICAL THERAPY
+138,https://www.uwo.ca/ipb/databook/04/rhbltb04.html,Program Enrolment,HEALTH SCIENCES,HEALTH and REHABILITATION SCIENCES
+139,https://www.uwo.ca/ipb/databook/04/auimtb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+140,https://www.uwo.ca/ipb/databook/04/digitb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,DIGITAL COMMUNICATION
+141,https://www.uwo.ca/ipb/databook/04/his_tb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,HEALTH INFORMATION SCIENCE
+142,https://www.uwo.ca/ipb/databook/04/jourtb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,JOURNALISM
+143,https://www.uwo.ca/ipb/databook/04/slistb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,LIBRARY and INFORMATION SCIENCE
+144,https://www.uwo.ca/ipb/databook/04/mit_tb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,"MEDIA, INFORMATION and TECHNOCULTURE"
+145,https://www.uwo.ca/ipb/databook/04/mpi_tb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,MEDIA and PUBLIC INTEREST
+146,https://www.uwo.ca/ipb/databook/04/meditb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,MEDIA STUDIES
+147,https://www.uwo.ca/ipb/databook/04/mtp_tb04.html,Program Enrolment,INFORMATION and MEDIA STUDIES,MEDIA THEORY and PRODUCTION
+148,https://www.uwo.ca/ipb/databook/04/aul_tb04.html,Program Enrolment,LAW,LAW
+149,https://www.uwo.ca/ipb/databook/04/aum_tb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),MEDICINE and DENTISTRY (MEDICINE)
+150,https://www.uwo.ca/ipb/databook/04/aud_tb04.html,Program Enrolment,MEDICINE and DENTISTRY (DENTISTRY),MEDICINE and DENTISTRY (DENTISTRY)
+151,https://www.uwo.ca/ipb/databook/04/anattb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+152,https://www.uwo.ca/ipb/databook/04/bioctb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+153,https://www.uwo.ca/ipb/databook/04/epidtb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+154,https://www.uwo.ca/ipb/databook/04/bioptb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+155,https://www.uwo.ca/ipb/databook/04/m_i_tb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+156,https://www.uwo.ca/ipb/databook/04/pathtb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+157,https://www.uwo.ca/ipb/databook/04/p_p_tb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+158,https://www.uwo.ca/ipb/databook/04/imsatb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+159,https://www.uwo.ca/ipb/databook/04/neustb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),NEUROSCIENCE
+160,https://www.uwo.ca/ipb/databook/04/pbhltb04.html,Program Enrolment,MEDICINE and DENTISTRY (MEDICINE),PUBLIC HEALTH
+161,https://www.uwo.ca/ipb/databook/04/aumutb04.html,Program Enrolment,MUSIC,MUSIC
+162,https://www.uwo.ca/ipb/databook/04/aus_tb04.html,Program Enrolment,SCIENCE,SCIENCE
+163,https://www.uwo.ca/ipb/databook/04/appmtb04.html,Program Enrolment,SCIENCE,APPLIED MATHEMATICS
+164,https://www.uwo.ca/ipb/databook/04/bioltb04.html,Program Enrolment,SCIENCE,BIOLOGY
+165,https://www.uwo.ca/ipb/databook/04/chemtb04.html,Program Enrolment,SCIENCE,CHEMISTRY
+166,https://www.uwo.ca/ipb/databook/04/cscitb04.html,Program Enrolment,SCIENCE,COMPUTER SCIENCE
+167,https://www.uwo.ca/ipb/databook/04/escitb04.html,Program Enrolment,SCIENCE,EARTH SCIENCES
+168,https://www.uwo.ca/ipb/databook/04/mathtb04.html,Program Enrolment,SCIENCE,MATHEMATICS
+169,https://www.uwo.ca/ipb/databook/04/p_a_tb04.html,Program Enrolment,SCIENCE,PHYSICS and ASTRONOMY
+170,https://www.uwo.ca/ipb/databook/04/sas_tb04.html,Program Enrolment,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+171,https://www.uwo.ca/ipb/databook/04/znattb04.html,Program Enrolment,SCIENCE,ANATOMY and CELL BIOLOGY
+172,https://www.uwo.ca/ipb/databook/04/zioctb04.html,Program Enrolment,SCIENCE,BIOCHEMISTRY
+173,https://www.uwo.ca/ipb/databook/04/envitb04.html,Program Enrolment,SCIENCE,ENVIRONMENTAL SCIENCE
+174,https://www.uwo.ca/ipb/databook/04/zpidtb04.html,Program Enrolment,SCIENCE,EPIDEMIOLOGY and BIOSTATISTICS
+175,https://www.uwo.ca/ipb/databook/04/he__tb04.html,Program Enrolment,SCIENCE,HUMAN ECOLOGY
+176,https://www.uwo.ca/ipb/databook/04/imsbtb04.html,Program Enrolment,SCIENCE,INTERDISCIPLINARY MEDICAL SCIENCES
+177,https://www.uwo.ca/ipb/databook/04/da__tb04.html,Program Enrolment,SCIENCE,MASTER OF DATA ANALYTICS
+178,https://www.uwo.ca/ipb/databook/04/zioptb04.html,Program Enrolment,SCIENCE,MEDICAL BIOPHYSICS
+179,https://www.uwo.ca/ipb/databook/04/z_i_tb04.html,Program Enrolment,SCIENCE,MICROBIOLOGY and IMMUNOLOGY
+180,https://www.uwo.ca/ipb/databook/04/zathtb04.html,Program Enrolment,SCIENCE,PATHOLOGY and LABORATORY MEDICINE
+181,https://www.uwo.ca/ipb/databook/04/z_p_tb04.html,Program Enrolment,SCIENCE,PHYSIOLOGY and PHARMACOLOGY
+182,https://www.uwo.ca/ipb/databook/04/ausstb04.html,Program Enrolment,SOCIAL SCIENCE,SOCIAL SCIENCE
+183,https://www.uwo.ca/ipb/databook/04/anthtb04.html,Program Enrolment,SOCIAL SCIENCE,ANTHROPOLOGY
+184,https://www.uwo.ca/ipb/databook/04/econtb04.html,Program Enrolment,SOCIAL SCIENCE,ECONOMICS
+185,https://www.uwo.ca/ipb/databook/04/geogtb04.html,Program Enrolment,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+186,https://www.uwo.ca/ipb/databook/04/histtb04.html,Program Enrolment,SOCIAL SCIENCE,HISTORY
+187,https://www.uwo.ca/ipb/databook/04/caistb04.html,Program Enrolment,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+188,https://www.uwo.ca/ipb/databook/04/polstb04.html,Program Enrolment,SOCIAL SCIENCE,POLITICAL SCIENCE
+189,https://www.uwo.ca/ipb/databook/04/psyctb04.html,Program Enrolment,SOCIAL SCIENCE,PSYCHOLOGY
+190,https://www.uwo.ca/ipb/databook/04/soc_tb04.html,Program Enrolment,SOCIAL SCIENCE,SOCIOLOGY
+191,https://www.uwo.ca/ipb/databook/04/as__tb04.html,Program Enrolment,SOCIAL SCIENCE,AMERICAN STUDIES
+192,https://www.uwo.ca/ipb/databook/04/fnattb04.html,Program Enrolment,SOCIAL SCIENCE,INDIGENOUS STUDIES
+193,https://www.uwo.ca/ipb/databook/04/ir__tb04.html,Program Enrolment,SOCIAL SCIENCE,INTERNATIONAL RELATIONS
+194,https://www.uwo.ca/ipb/databook/04/las_tb04.html,Program Enrolment,SOCIAL SCIENCE,LATIN AMERICAN STUDIES
+195,https://www.uwo.ca/ipb/databook/04/lngbtb04.html,Program Enrolment,SOCIAL SCIENCE,LINGUISTICS
+196,https://www.uwo.ca/ipb/databook/04/ppe_tb04.html,Program Enrolment,SOCIAL SCIENCE,"POLITICS, PHILOSOPHY and ECONOMICS"
+197,https://www.uwo.ca/ipb/databook/04/justtb04.html,Program Enrolment,SOCIAL SCIENCE,TRANSITIONAL JUSTICE and POST-CONFLICT RECONSTRUCTION
+198,https://www.uwo.ca/ipb/databook/04/bme_tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,BIOMEDICAL ENGINEERING
+199,https://www.uwo.ca/ipb/databook/04/e_s_tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,ENVIRONMENT and SUSTAINABILITY
+200,https://www.uwo.ca/ipb/databook/04/id07tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (APPLIED SCIENCE)
+201,https://www.uwo.ca/ipb/databook/04/id01tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (BIOLOGICAL SCIENCES)
+202,https://www.uwo.ca/ipb/databook/04/id03tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (COMPUTER SCIENCE)
+203,https://www.uwo.ca/ipb/databook/04/id04tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (DATA ANALYTICS)
+204,https://www.uwo.ca/ipb/databook/04/id05tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (GLOBAL HEALTH SYSTEM IN AFRICA)
+205,https://www.uwo.ca/ipb/databook/04/neurtb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,NEUROSCIENCE
+206,https://www.uwo.ca/ipb/databook/04/pmustb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,POPULAR MUSIC and CULTURE
+207,https://www.uwo.ca/ipb/databook/04/id02tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,PROFESSIONAL COMMUNICATION and MANAGEMENT
+208,https://www.uwo.ca/ipb/databook/04/t_c_tb04.html,Program Enrolment,INTER-DISCIPLINARY GRADUATE STUDIES,THEORY and CRITICISM
+209,https://www.uwo.ca/ipb/databook/05/auartb05.html,Teaching Activity,ARTS and HUMANITIES,ARTS and HUMANITIES
+210,https://www.uwo.ca/ipb/databook/05/clsttb05.html,Teaching Activity,ARTS and HUMANITIES,CLASSICAL STUDIES
+211,https://www.uwo.ca/ipb/databook/05/engltb05.html,Teaching Activity,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+212,https://www.uwo.ca/ipb/databook/05/filmtb05.html,Teaching Activity,ARTS and HUMANITIES,FILM STUDIES
+213,https://www.uwo.ca/ipb/databook/05/frentb05.html,Teaching Activity,ARTS and HUMANITIES,FRENCH STUDIES
+214,https://www.uwo.ca/ipb/databook/05/ws__tb05.html,Teaching Activity,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+215,https://www.uwo.ca/ipb/databook/05/mll_tb05.html,Teaching Activity,ARTS and HUMANITIES,LANGUAGES and CULTURES
+216,https://www.uwo.ca/ipb/databook/05/philtb05.html,Teaching Activity,ARTS and HUMANITIES,PHILOSOPHY
+217,https://www.uwo.ca/ipb/databook/05/vsartb05.html,Teaching Activity,ARTS and HUMANITIES,VISUAL ARTS
+218,https://www.uwo.ca/ipb/databook/05/aub_tb05.html,Teaching Activity,BUSINESS,BUSINESS
+219,https://www.uwo.ca/ipb/databook/05/auedtb05.html,Teaching Activity,EDUCATION,EDUCATION
+220,https://www.uwo.ca/ipb/databook/05/aue_tb05.html,Teaching Activity,ENGINEERING,ENGINEERING
+221,https://www.uwo.ca/ipb/databook/05/cheetb05.html,Teaching Activity,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+222,https://www.uwo.ca/ipb/databook/05/civetb05.html,Teaching Activity,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+223,https://www.uwo.ca/ipb/databook/05/eleetb05.html,Teaching Activity,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+224,https://www.uwo.ca/ipb/databook/05/m_metb05.html,Teaching Activity,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+225,https://www.uwo.ca/ipb/databook/05/bmeatb05.html,Teaching Activity,ENGINEERING,BIOMEDICAL ENGINEERING
+226,https://www.uwo.ca/ipb/databook/05/engstb05.html,Teaching Activity,ENGINEERING,ENGINEERING SCIENCE
+227,https://www.uwo.ca/ipb/databook/05/mse_tb05.html,Teaching Activity,ENGINEERING,MECHATRONIC SYSTEM ENGINEERING
+228,https://www.uwo.ca/ipb/databook/05/auhstb05.html,Teaching Activity,HEALTH SCIENCES,HEALTH SCIENCES
+229,https://www.uwo.ca/ipb/databook/05/bhsctb05.html,Teaching Activity,HEALTH SCIENCES,HEALTH STUDIES
+230,https://www.uwo.ca/ipb/databook/05/cd__tb05.html,Teaching Activity,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+231,https://www.uwo.ca/ipb/databook/05/kinetb05.html,Teaching Activity,HEALTH SCIENCES,KINESIOLOGY
+232,https://www.uwo.ca/ipb/databook/05/nurstb05.html,Teaching Activity,HEALTH SCIENCES,NURSING
+233,https://www.uwo.ca/ipb/databook/05/ot__tb05.html,Teaching Activity,HEALTH SCIENCES,OCCUPATIONAL THERAPY
+234,https://www.uwo.ca/ipb/databook/05/pt__tb05.html,Teaching Activity,HEALTH SCIENCES,PHYSICAL THERAPY
+235,https://www.uwo.ca/ipb/databook/05/rhbltb05.html,Teaching Activity,HEALTH SCIENCES,HEALTH and REHABILITATION SCIENCES
+236,https://www.uwo.ca/ipb/databook/05/auimtb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+237,https://www.uwo.ca/ipb/databook/05/digitb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,DIGITAL COMMUNICATION
+238,https://www.uwo.ca/ipb/databook/05/his_tb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,HEALTH INFORMATION SCIENCE
+239,https://www.uwo.ca/ipb/databook/05/imsbtb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+240,https://www.uwo.ca/ipb/databook/05/jourtb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,JOURNALISM
+241,https://www.uwo.ca/ipb/databook/05/slistb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,LIBRARY and INFORMATION SCIENCE
+242,https://www.uwo.ca/ipb/databook/05/mit_tb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,"MEDIA, INFORMATION and TECHNOCULTURE"
+243,https://www.uwo.ca/ipb/databook/05/meditb05.html,Teaching Activity,INFORMATION and MEDIA STUDIES,MEDIA STUDIES
+244,https://www.uwo.ca/ipb/databook/05/aul_tb05.html,Teaching Activity,LAW,LAW
+245,https://www.uwo.ca/ipb/databook/05/aum_tb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),MEDICINE and DENTISTRY (MEDICINE)
+246,https://www.uwo.ca/ipb/databook/05/aud_tb05.html,Teaching Activity,MEDICINE and DENTISTRY (DENTISTRY),MEDICINE and DENTISTRY (DENTISTRY)
+247,https://www.uwo.ca/ipb/databook/05/anattb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+248,https://www.uwo.ca/ipb/databook/05/bioctb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+249,https://www.uwo.ca/ipb/databook/05/epidtb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+250,https://www.uwo.ca/ipb/databook/05/hms_tb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+251,https://www.uwo.ca/ipb/databook/05/bioptb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+252,https://www.uwo.ca/ipb/databook/05/m_i_tb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+253,https://www.uwo.ca/ipb/databook/05/pathtb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+254,https://www.uwo.ca/ipb/databook/05/p_p_tb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+255,https://www.uwo.ca/ipb/databook/05/imsatb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+256,https://www.uwo.ca/ipb/databook/05/neustb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),NEUROSCIENCE
+257,https://www.uwo.ca/ipb/databook/05/pbhltb05.html,Teaching Activity,MEDICINE and DENTISTRY (MEDICINE),PUBLIC HEALTH
+258,https://www.uwo.ca/ipb/databook/05/aumutb05.html,Teaching Activity,MUSIC,MUSIC
+259,https://www.uwo.ca/ipb/databook/05/aus_tb05.html,Teaching Activity,SCIENCE,SCIENCE
+260,https://www.uwo.ca/ipb/databook/05/appmtb05.html,Teaching Activity,SCIENCE,APPLIED MATHEMATICS
+261,https://www.uwo.ca/ipb/databook/05/bioltb05.html,Teaching Activity,SCIENCE,BIOLOGY
+262,https://www.uwo.ca/ipb/databook/05/chemtb05.html,Teaching Activity,SCIENCE,CHEMISTRY
+263,https://www.uwo.ca/ipb/databook/05/cscitb05.html,Teaching Activity,SCIENCE,COMPUTER SCIENCE
+264,https://www.uwo.ca/ipb/databook/05/escitb05.html,Teaching Activity,SCIENCE,EARTH SCIENCES
+265,https://www.uwo.ca/ipb/databook/05/mathtb05.html,Teaching Activity,SCIENCE,MATHEMATICS
+266,https://www.uwo.ca/ipb/databook/05/p_a_tb05.html,Teaching Activity,SCIENCE,PHYSICS and ASTRONOMY
+267,https://www.uwo.ca/ipb/databook/05/sas_tb05.html,Teaching Activity,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+268,https://www.uwo.ca/ipb/databook/05/envitb05.html,Teaching Activity,SCIENCE,ENVIRONMENTAL SCIENCE
+269,https://www.uwo.ca/ipb/databook/05/da__tb05.html,Teaching Activity,SCIENCE,MASTER OF DATA ANALYTICS
+270,https://www.uwo.ca/ipb/databook/05/ausstb05.html,Teaching Activity,SOCIAL SCIENCE,SOCIAL SCIENCE
+271,https://www.uwo.ca/ipb/databook/05/anthtb05.html,Teaching Activity,SOCIAL SCIENCE,ANTHROPOLOGY
+272,https://www.uwo.ca/ipb/databook/05/econtb05.html,Teaching Activity,SOCIAL SCIENCE,ECONOMICS
+273,https://www.uwo.ca/ipb/databook/05/geogtb05.html,Teaching Activity,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+274,https://www.uwo.ca/ipb/databook/05/histtb05.html,Teaching Activity,SOCIAL SCIENCE,HISTORY
+275,https://www.uwo.ca/ipb/databook/05/caistb05.html,Teaching Activity,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+276,https://www.uwo.ca/ipb/databook/05/polstb05.html,Teaching Activity,SOCIAL SCIENCE,POLITICAL SCIENCE
+277,https://www.uwo.ca/ipb/databook/05/psyctb05.html,Teaching Activity,SOCIAL SCIENCE,PSYCHOLOGY
+278,https://www.uwo.ca/ipb/databook/05/soc_tb05.html,Teaching Activity,SOCIAL SCIENCE,SOCIOLOGY
+279,https://www.uwo.ca/ipb/databook/05/as__tb05.html,Teaching Activity,SOCIAL SCIENCE,AMERICAN STUDIES
+280,https://www.uwo.ca/ipb/databook/05/fnattb05.html,Teaching Activity,SOCIAL SCIENCE,INDIGENOUS STUDIES
+281,https://www.uwo.ca/ipb/databook/05/ir__tb05.html,Teaching Activity,SOCIAL SCIENCE,INTERNATIONAL RELATIONS
+282,https://www.uwo.ca/ipb/databook/05/ppe_tb05.html,Teaching Activity,SOCIAL SCIENCE,"POLITICS, PHILOSOPHY and ECONOMICS"
+283,https://www.uwo.ca/ipb/databook/05/justtb05.html,Teaching Activity,SOCIAL SCIENCE,TRANSITIONAL JUSTICE and POST-CONFLICT RECONSTRUCTION
+284,https://www.uwo.ca/ipb/databook/05/bme_tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,BIOMEDICAL ENGINEERING
+285,https://www.uwo.ca/ipb/databook/05/e_s_tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,ENVIRONMENT and SUSTAINABILITY
+286,https://www.uwo.ca/ipb/databook/05/id07tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (APPLIED SCIENCE)
+287,https://www.uwo.ca/ipb/databook/05/id01tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (BIOLOGICAL SCIENCES)
+288,https://www.uwo.ca/ipb/databook/05/id03tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (COMPUTER SCIENCE)
+289,https://www.uwo.ca/ipb/databook/05/id04tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (DATA ANALYTICS)
+290,https://www.uwo.ca/ipb/databook/05/id05tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,MANAGEMENT OF APPLIED SCIENCE (GLOBAL HEALTH SYSTEM IN AFRICA)
+291,https://www.uwo.ca/ipb/databook/05/neurtb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,NEUROSCIENCE
+292,https://www.uwo.ca/ipb/databook/05/pmustb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,POPULAR MUSIC and CULTURE
+293,https://www.uwo.ca/ipb/databook/05/id02tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,PROFESSIONAL COMMUNICATION and MANAGEMENT
+294,https://www.uwo.ca/ipb/databook/05/t_c_tb05.html,Teaching Activity,INTER-DISCIPLINARY GRADUATE STUDIES,THEORY and CRITICISM
+295,https://www.uwo.ca/ipb/databook/05/se__tb05.html,Teaching Activity,SCHOLARS ELECTIVES,SCHOLARS ELECTIVES
+296,https://www.uwo.ca/ipb/databook/06/auartb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,ARTS and HUMANITIES
+297,https://www.uwo.ca/ipb/databook/06/clsttb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,CLASSICAL STUDIES
+298,https://www.uwo.ca/ipb/databook/06/engltb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+299,https://www.uwo.ca/ipb/databook/06/filmtb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,FILM STUDIES
+300,https://www.uwo.ca/ipb/databook/06/frentb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,FRENCH STUDIES
+301,https://www.uwo.ca/ipb/databook/06/ws__tb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+302,https://www.uwo.ca/ipb/databook/06/mll_tb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,LANGUAGES and CULTURES
+303,https://www.uwo.ca/ipb/databook/06/philtb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,PHILOSOPHY
+304,https://www.uwo.ca/ipb/databook/06/vsartb06.html,Undergraduate Cross-Unit Teaching,ARTS and HUMANITIES,VISUAL ARTS
+305,https://www.uwo.ca/ipb/databook/06/aub_tb06.html,Undergraduate Cross-Unit Teaching,BUSINESS,CROSS-UNIT TEACHING
+306,https://www.uwo.ca/ipb/databook/06/auedtb06.html,Undergraduate Cross-Unit Teaching,EDUCATION,CROSS-UNIT TEACHING
+307,https://www.uwo.ca/ipb/databook/06/aue_tb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,ENGINEERING
+308,https://www.uwo.ca/ipb/databook/06/cheetb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+309,https://www.uwo.ca/ipb/databook/06/civetb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+310,https://www.uwo.ca/ipb/databook/06/eleetb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+311,https://www.uwo.ca/ipb/databook/06/m_metb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+312,https://www.uwo.ca/ipb/databook/06/bmeatb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,BIOMEDICAL ENGINEERING
+313,https://www.uwo.ca/ipb/databook/06/engstb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,ENGINEERING SCIENCE
+314,https://www.uwo.ca/ipb/databook/06/mse_tb06.html,Undergraduate Cross-Unit Teaching,ENGINEERING,MECHATRONIC SYSTEM ENGINEERING
+315,https://www.uwo.ca/ipb/databook/06/auhstb06.html,Undergraduate Cross-Unit Teaching,HEALTH SCIENCES,HEALTH SCIENCES
+316,https://www.uwo.ca/ipb/databook/06/bhsctb06.html,Undergraduate Cross-Unit Teaching,HEALTH SCIENCES,HEALTH STUDIES
+317,https://www.uwo.ca/ipb/databook/06/cd__tb06.html,Undergraduate Cross-Unit Teaching,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+318,https://www.uwo.ca/ipb/databook/06/kinetb06.html,Undergraduate Cross-Unit Teaching,HEALTH SCIENCES,KINESIOLOGY
+319,https://www.uwo.ca/ipb/databook/06/nurstb06.html,Undergraduate Cross-Unit Teaching,HEALTH SCIENCES,NURSING
+320,https://www.uwo.ca/ipb/databook/06/auimtb06.html,Undergraduate Cross-Unit Teaching,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+321,https://www.uwo.ca/ipb/databook/06/digitb06.html,Undergraduate Cross-Unit Teaching,INFORMATION and MEDIA STUDIES,DIGITAL COMMUNICATION
+322,https://www.uwo.ca/ipb/databook/06/imsbtb06.html,Undergraduate Cross-Unit Teaching,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+323,https://www.uwo.ca/ipb/databook/06/mit_tb06.html,Undergraduate Cross-Unit Teaching,INFORMATION and MEDIA STUDIES,"MEDIA, INFORMATION and TECHNOCULTURE"
+324,https://www.uwo.ca/ipb/databook/06/aul_tb06.html,Undergraduate Cross-Unit Teaching,LAW,CROSS-UNIT TEACHING
+325,https://www.uwo.ca/ipb/databook/06/aum_tb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),BASIC MEDICAL SCIENCES
+326,https://www.uwo.ca/ipb/databook/06/anattb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+327,https://www.uwo.ca/ipb/databook/06/bioctb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+328,https://www.uwo.ca/ipb/databook/06/epidtb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+329,https://www.uwo.ca/ipb/databook/06/hms_tb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+330,https://www.uwo.ca/ipb/databook/06/bioptb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+331,https://www.uwo.ca/ipb/databook/06/m_i_tb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+332,https://www.uwo.ca/ipb/databook/06/pathtb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+333,https://www.uwo.ca/ipb/databook/06/p_p_tb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+334,https://www.uwo.ca/ipb/databook/06/imsatb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+335,https://www.uwo.ca/ipb/databook/06/neustb06.html,Undergraduate Cross-Unit Teaching,MEDICINE and DENTISTRY (MEDICINE),NEUROSCIENCE
+336,https://www.uwo.ca/ipb/databook/06/aumutb06.html,Undergraduate Cross-Unit Teaching,MUSIC,MUSIC
+337,https://www.uwo.ca/ipb/databook/06/aus_tb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,SCIENCE
+338,https://www.uwo.ca/ipb/databook/06/appmtb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,APPLIED MATHEMATICS
+339,https://www.uwo.ca/ipb/databook/06/bioltb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,BIOLOGY
+340,https://www.uwo.ca/ipb/databook/06/chemtb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,CHEMISTRY
+341,https://www.uwo.ca/ipb/databook/06/cscitb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,COMPUTER SCIENCE
+342,https://www.uwo.ca/ipb/databook/06/escitb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,EARTH SCIENCES
+343,https://www.uwo.ca/ipb/databook/06/mathtb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,MATHEMATICS
+344,https://www.uwo.ca/ipb/databook/06/p_a_tb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,PHYSICS and ASTRONOMY
+345,https://www.uwo.ca/ipb/databook/06/sas_tb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+346,https://www.uwo.ca/ipb/databook/06/envitb06.html,Undergraduate Cross-Unit Teaching,SCIENCE,ENVIRONMENTAL SCIENCE
+347,https://www.uwo.ca/ipb/databook/06/ausstb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,SOCIAL SCIENCE
+348,https://www.uwo.ca/ipb/databook/06/anthtb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,ANTHROPOLOGY
+349,https://www.uwo.ca/ipb/databook/06/econtb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,ECONOMICS
+350,https://www.uwo.ca/ipb/databook/06/geogtb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+351,https://www.uwo.ca/ipb/databook/06/histtb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,HISTORY
+352,https://www.uwo.ca/ipb/databook/06/caistb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+353,https://www.uwo.ca/ipb/databook/06/polstb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,POLITICAL SCIENCE
+354,https://www.uwo.ca/ipb/databook/06/psyctb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,PSYCHOLOGY
+355,https://www.uwo.ca/ipb/databook/06/soc_tb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,SOCIOLOGY
+356,https://www.uwo.ca/ipb/databook/06/as__tb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,AMERICAN STUDIES
+357,https://www.uwo.ca/ipb/databook/06/fnattb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,INDIGENOUS STUDIES
+358,https://www.uwo.ca/ipb/databook/06/ir__tb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,INTERNATIONAL RELATIONS
+359,https://www.uwo.ca/ipb/databook/06/ppe_tb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,"POLITICS, PHILOSOPHY and ECONOMICS"
+360,https://www.uwo.ca/ipb/databook/06/justtb06.html,Undergraduate Cross-Unit Teaching,SOCIAL SCIENCE,TRANSITIONAL JUSTICE and POST-CONFLICT RECONSTRUCTION
+361,https://www.uwo.ca/ipb/databook/06/se__tb06.html,Undergraduate Cross-Unit Teaching,SCHOLARS ELECTIVES,SCHOLARS ELECTIVES
+362,https://www.uwo.ca/ipb/databook/07/auartb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,ARTS and HUMANITIES
+363,https://www.uwo.ca/ipb/databook/07/clsttb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,CLASSICAL STUDIES
+364,https://www.uwo.ca/ipb/databook/07/engltb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+365,https://www.uwo.ca/ipb/databook/07/filmtb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,FILM STUDIES
+366,https://www.uwo.ca/ipb/databook/07/frentb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,FRENCH STUDIES
+367,https://www.uwo.ca/ipb/databook/07/ws__tb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+368,https://www.uwo.ca/ipb/databook/07/mll_tb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,LANGUAGES and CULTURES
+369,https://www.uwo.ca/ipb/databook/07/philtb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,PHILOSOPHY
+370,https://www.uwo.ca/ipb/databook/07/vsartb07.html,Undergraduate Courses Taught,ARTS and HUMANITIES,VISUAL ARTS
+371,https://www.uwo.ca/ipb/databook/07/aub_tb07.html,Undergraduate Courses Taught,BUSINESS,BUSINESS
+372,https://www.uwo.ca/ipb/databook/07/auedtb07.html,Undergraduate Courses Taught,EDUCATION,CROSS-UNIT TEACHING
+373,https://www.uwo.ca/ipb/databook/07/aue_tb07.html,Undergraduate Courses Taught,ENGINEERING,ENGINEERING
+374,https://www.uwo.ca/ipb/databook/07/cheetb07.html,Undergraduate Courses Taught,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+375,https://www.uwo.ca/ipb/databook/07/civetb07.html,Undergraduate Courses Taught,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+376,https://www.uwo.ca/ipb/databook/07/eleetb07.html,Undergraduate Courses Taught,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+377,https://www.uwo.ca/ipb/databook/07/m_metb07.html,Undergraduate Courses Taught,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+378,https://www.uwo.ca/ipb/databook/07/bmeatb07.html,Undergraduate Courses Taught,ENGINEERING,BIOMEDICAL ENGINEERING
+379,https://www.uwo.ca/ipb/databook/07/engstb07.html,Undergraduate Courses Taught,ENGINEERING,ENGINEERING SCIENCE
+380,https://www.uwo.ca/ipb/databook/07/mse_tb07.html,Undergraduate Courses Taught,ENGINEERING,MECHATRONIC SYSTEM ENGINEERING
+381,https://www.uwo.ca/ipb/databook/07/auhstb07.html,Undergraduate Courses Taught,HEALTH SCIENCES,HEALTH SCIENCES
+382,https://www.uwo.ca/ipb/databook/07/bhsctb07.html,Undergraduate Courses Taught,HEALTH SCIENCES,HEALTH STUDIES
+383,https://www.uwo.ca/ipb/databook/07/cd__tb07.html,Undergraduate Courses Taught,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+384,https://www.uwo.ca/ipb/databook/07/kinetb07.html,Undergraduate Courses Taught,HEALTH SCIENCES,KINESIOLOGY
+385,https://www.uwo.ca/ipb/databook/07/nurstb07.html,Undergraduate Courses Taught,HEALTH SCIENCES,NURSING
+386,https://www.uwo.ca/ipb/databook/07/auimtb07.html,Undergraduate Courses Taught,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+387,https://www.uwo.ca/ipb/databook/07/digitb07.html,Undergraduate Courses Taught,INFORMATION and MEDIA STUDIES,DIGITAL COMMUNICATION
+388,https://www.uwo.ca/ipb/databook/07/imsbtb07.html,Undergraduate Courses Taught,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+389,https://www.uwo.ca/ipb/databook/07/mit_tb07.html,Undergraduate Courses Taught,INFORMATION and MEDIA STUDIES,"MEDIA, INFORMATION and TECHNOCULTURE"
+390,https://www.uwo.ca/ipb/databook/07/aul_tb07.html,Undergraduate Courses Taught,LAW,CROSS-UNIT TEACHING
+391,https://www.uwo.ca/ipb/databook/07/aum_tb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),BASIC MEDICAL SCIENCES
+392,https://www.uwo.ca/ipb/databook/07/anattb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+393,https://www.uwo.ca/ipb/databook/07/bioctb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+394,https://www.uwo.ca/ipb/databook/07/epidtb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+395,https://www.uwo.ca/ipb/databook/07/hms_tb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+396,https://www.uwo.ca/ipb/databook/07/bioptb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+397,https://www.uwo.ca/ipb/databook/07/m_i_tb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+398,https://www.uwo.ca/ipb/databook/07/pathtb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+399,https://www.uwo.ca/ipb/databook/07/p_p_tb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+400,https://www.uwo.ca/ipb/databook/07/imsatb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+401,https://www.uwo.ca/ipb/databook/07/neustb07.html,Undergraduate Courses Taught,MEDICINE and DENTISTRY (MEDICINE),NEUROSCIENCE
+402,https://www.uwo.ca/ipb/databook/07/aumutb07.html,Undergraduate Courses Taught,MUSIC,MUSIC
+403,https://www.uwo.ca/ipb/databook/07/aus_tb07.html,Undergraduate Courses Taught,SCIENCE,SCIENCE
+404,https://www.uwo.ca/ipb/databook/07/appmtb07.html,Undergraduate Courses Taught,SCIENCE,APPLIED MATHEMATICS
+405,https://www.uwo.ca/ipb/databook/07/bioltb07.html,Undergraduate Courses Taught,SCIENCE,BIOLOGY
+406,https://www.uwo.ca/ipb/databook/07/chemtb07.html,Undergraduate Courses Taught,SCIENCE,CHEMISTRY
+407,https://www.uwo.ca/ipb/databook/07/cscitb07.html,Undergraduate Courses Taught,SCIENCE,COMPUTER SCIENCE
+408,https://www.uwo.ca/ipb/databook/07/escitb07.html,Undergraduate Courses Taught,SCIENCE,EARTH SCIENCES
+409,https://www.uwo.ca/ipb/databook/07/mathtb07.html,Undergraduate Courses Taught,SCIENCE,MATHEMATICS
+410,https://www.uwo.ca/ipb/databook/07/p_a_tb07.html,Undergraduate Courses Taught,SCIENCE,PHYSICS and ASTRONOMY
+411,https://www.uwo.ca/ipb/databook/07/sas_tb07.html,Undergraduate Courses Taught,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+412,https://www.uwo.ca/ipb/databook/07/envitb07.html,Undergraduate Courses Taught,SCIENCE,ENVIRONMENTAL SCIENCE
+413,https://www.uwo.ca/ipb/databook/07/ausstb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,SOCIAL SCIENCE
+414,https://www.uwo.ca/ipb/databook/07/anthtb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,ANTHROPOLOGY
+415,https://www.uwo.ca/ipb/databook/07/econtb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,ECONOMICS
+416,https://www.uwo.ca/ipb/databook/07/geogtb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+417,https://www.uwo.ca/ipb/databook/07/histtb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,HISTORY
+418,https://www.uwo.ca/ipb/databook/07/caistb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+419,https://www.uwo.ca/ipb/databook/07/polstb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,POLITICAL SCIENCE
+420,https://www.uwo.ca/ipb/databook/07/psyctb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,PSYCHOLOGY
+421,https://www.uwo.ca/ipb/databook/07/soc_tb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,SOCIOLOGY
+422,https://www.uwo.ca/ipb/databook/07/as__tb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,AMERICAN STUDIES
+423,https://www.uwo.ca/ipb/databook/07/fnattb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,INDIGENOUS STUDIES
+424,https://www.uwo.ca/ipb/databook/07/ir__tb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,INTERNATIONAL RELATIONS
+425,https://www.uwo.ca/ipb/databook/07/ppe_tb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,"POLITICS, PHILOSOPHY and ECONOMICS"
+426,https://www.uwo.ca/ipb/databook/07/justtb07.html,Undergraduate Courses Taught,SOCIAL SCIENCE,TRANSITIONAL JUSTICE and POST-CONFLICT RECONSTRUCTION
+427,https://www.uwo.ca/ipb/databook/07/se__tb07.html,Undergraduate Courses Taught,SCHOLARS ELECTIVES,SCHOLARS ELECTIVES
+428,https://www.uwo.ca/ipb/databook/08/auartb08.html,Undergraduate Class Size,ARTS and HUMANITIES,ARTS and HUMANITIES
+429,https://www.uwo.ca/ipb/databook/08/clsttb08.html,Undergraduate Class Size,ARTS and HUMANITIES,CLASSICAL STUDIES
+430,https://www.uwo.ca/ipb/databook/08/engltb08.html,Undergraduate Class Size,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+431,https://www.uwo.ca/ipb/databook/08/filmtb08.html,Undergraduate Class Size,ARTS and HUMANITIES,FILM STUDIES
+432,https://www.uwo.ca/ipb/databook/08/frentb08.html,Undergraduate Class Size,ARTS and HUMANITIES,FRENCH STUDIES
+433,https://www.uwo.ca/ipb/databook/08/ws__tb08.html,Undergraduate Class Size,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+434,https://www.uwo.ca/ipb/databook/08/mll_tb08.html,Undergraduate Class Size,ARTS and HUMANITIES,LANGUAGES and CULTURES
+435,https://www.uwo.ca/ipb/databook/08/philtb08.html,Undergraduate Class Size,ARTS and HUMANITIES,PHILOSOPHY
+436,https://www.uwo.ca/ipb/databook/08/vsartb08.html,Undergraduate Class Size,ARTS and HUMANITIES,VISUAL ARTS
+437,https://www.uwo.ca/ipb/databook/08/aub_tb08.html,Undergraduate Class Size,BUSINESS,BUSINESS
+438,https://www.uwo.ca/ipb/databook/08/auedtb08.html,Undergraduate Class Size,EDUCATION,CROSS-UNIT TEACHING
+439,https://www.uwo.ca/ipb/databook/08/aue_tb08.html,Undergraduate Class Size,ENGINEERING,ENGINEERING
+440,https://www.uwo.ca/ipb/databook/08/cheetb08.html,Undergraduate Class Size,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+441,https://www.uwo.ca/ipb/databook/08/civetb08.html,Undergraduate Class Size,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+442,https://www.uwo.ca/ipb/databook/08/eleetb08.html,Undergraduate Class Size,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+443,https://www.uwo.ca/ipb/databook/08/m_metb08.html,Undergraduate Class Size,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+444,https://www.uwo.ca/ipb/databook/08/bmeatb08.html,Undergraduate Class Size,ENGINEERING,BIOMEDICAL ENGINEERING
+445,https://www.uwo.ca/ipb/databook/08/engstb08.html,Undergraduate Class Size,ENGINEERING,ENGINEERING SCIENCE
+446,https://www.uwo.ca/ipb/databook/08/mse_tb08.html,Undergraduate Class Size,ENGINEERING,MECHATRONIC SYSTEM ENGINEERING
+447,https://www.uwo.ca/ipb/databook/08/auhstb08.html,Undergraduate Class Size,HEALTH SCIENCES,HEALTH SCIENCES
+448,https://www.uwo.ca/ipb/databook/08/bhsctb08.html,Undergraduate Class Size,HEALTH SCIENCES,HEALTH STUDIES
+449,https://www.uwo.ca/ipb/databook/08/cd__tb08.html,Undergraduate Class Size,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+450,https://www.uwo.ca/ipb/databook/08/kinetb08.html,Undergraduate Class Size,HEALTH SCIENCES,KINESIOLOGY
+451,https://www.uwo.ca/ipb/databook/08/nurstb08.html,Undergraduate Class Size,HEALTH SCIENCES,NURSING
+452,https://www.uwo.ca/ipb/databook/08/auimtb08.html,Undergraduate Class Size,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+453,https://www.uwo.ca/ipb/databook/08/digitb08.html,Undergraduate Class Size,INFORMATION and MEDIA STUDIES,DIGITAL COMMUNICATION
+454,https://www.uwo.ca/ipb/databook/08/imsbtb08.html,Undergraduate Class Size,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+455,https://www.uwo.ca/ipb/databook/08/mit_tb08.html,Undergraduate Class Size,INFORMATION and MEDIA STUDIES,"MEDIA, INFORMATION and TECHNOCULTURE"
+456,https://www.uwo.ca/ipb/databook/08/aul_tb08.html,Undergraduate Class Size,LAW,CROSS-UNIT TEACHING
+457,https://www.uwo.ca/ipb/databook/08/aum_tb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),BASIC MEDICAL SCIENCES
+458,https://www.uwo.ca/ipb/databook/08/anattb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+459,https://www.uwo.ca/ipb/databook/08/bioctb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+460,https://www.uwo.ca/ipb/databook/08/epidtb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+461,https://www.uwo.ca/ipb/databook/08/hms_tb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+462,https://www.uwo.ca/ipb/databook/08/bioptb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+463,https://www.uwo.ca/ipb/databook/08/m_i_tb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+464,https://www.uwo.ca/ipb/databook/08/pathtb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+465,https://www.uwo.ca/ipb/databook/08/p_p_tb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+466,https://www.uwo.ca/ipb/databook/08/imsatb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+467,https://www.uwo.ca/ipb/databook/08/neustb08.html,Undergraduate Class Size,MEDICINE and DENTISTRY (MEDICINE),NEUROSCIENCE
+468,https://www.uwo.ca/ipb/databook/08/aumutb08.html,Undergraduate Class Size,MUSIC,MUSIC
+469,https://www.uwo.ca/ipb/databook/08/aus_tb08.html,Undergraduate Class Size,SCIENCE,SCIENCE
+470,https://www.uwo.ca/ipb/databook/08/appmtb08.html,Undergraduate Class Size,SCIENCE,APPLIED MATHEMATICS
+471,https://www.uwo.ca/ipb/databook/08/bioltb08.html,Undergraduate Class Size,SCIENCE,BIOLOGY
+472,https://www.uwo.ca/ipb/databook/08/chemtb08.html,Undergraduate Class Size,SCIENCE,CHEMISTRY
+473,https://www.uwo.ca/ipb/databook/08/cscitb08.html,Undergraduate Class Size,SCIENCE,COMPUTER SCIENCE
+474,https://www.uwo.ca/ipb/databook/08/escitb08.html,Undergraduate Class Size,SCIENCE,EARTH SCIENCES
+475,https://www.uwo.ca/ipb/databook/08/mathtb08.html,Undergraduate Class Size,SCIENCE,MATHEMATICS
+476,https://www.uwo.ca/ipb/databook/08/p_a_tb08.html,Undergraduate Class Size,SCIENCE,PHYSICS and ASTRONOMY
+477,https://www.uwo.ca/ipb/databook/08/sas_tb08.html,Undergraduate Class Size,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+478,https://www.uwo.ca/ipb/databook/08/envitb08.html,Undergraduate Class Size,SCIENCE,ENVIRONMENTAL SCIENCE
+479,https://www.uwo.ca/ipb/databook/08/ausstb08.html,Undergraduate Class Size,SOCIAL SCIENCE,SOCIAL SCIENCE
+480,https://www.uwo.ca/ipb/databook/08/anthtb08.html,Undergraduate Class Size,SOCIAL SCIENCE,ANTHROPOLOGY
+481,https://www.uwo.ca/ipb/databook/08/econtb08.html,Undergraduate Class Size,SOCIAL SCIENCE,ECONOMICS
+482,https://www.uwo.ca/ipb/databook/08/geogtb08.html,Undergraduate Class Size,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+483,https://www.uwo.ca/ipb/databook/08/histtb08.html,Undergraduate Class Size,SOCIAL SCIENCE,HISTORY
+484,https://www.uwo.ca/ipb/databook/08/caistb08.html,Undergraduate Class Size,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+485,https://www.uwo.ca/ipb/databook/08/polstb08.html,Undergraduate Class Size,SOCIAL SCIENCE,POLITICAL SCIENCE
+486,https://www.uwo.ca/ipb/databook/08/psyctb08.html,Undergraduate Class Size,SOCIAL SCIENCE,PSYCHOLOGY
+487,https://www.uwo.ca/ipb/databook/08/soc_tb08.html,Undergraduate Class Size,SOCIAL SCIENCE,SOCIOLOGY
+488,https://www.uwo.ca/ipb/databook/08/as__tb08.html,Undergraduate Class Size,SOCIAL SCIENCE,AMERICAN STUDIES
+489,https://www.uwo.ca/ipb/databook/08/fnattb08.html,Undergraduate Class Size,SOCIAL SCIENCE,INDIGENOUS STUDIES
+490,https://www.uwo.ca/ipb/databook/08/ir__tb08.html,Undergraduate Class Size,SOCIAL SCIENCE,INTERNATIONAL RELATIONS
+491,https://www.uwo.ca/ipb/databook/08/ppe_tb08.html,Undergraduate Class Size,SOCIAL SCIENCE,"POLITICS, PHILOSOPHY and ECONOMICS"
+492,https://www.uwo.ca/ipb/databook/08/justtb08.html,Undergraduate Class Size,SOCIAL SCIENCE,TRANSITIONAL JUSTICE and POST-CONFLICT RECONSTRUCTION
+493,https://www.uwo.ca/ipb/databook/08/se__tb08.html,Undergraduate Class Size,SCHOLARS ELECTIVES,SCHOLARS ELECTIVES
+494,https://www.uwo.ca/ipb/databook/09/auartb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,ARTS and HUMANITIES
+495,https://www.uwo.ca/ipb/databook/09/clsttb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,CLASSICAL STUDIES
+496,https://www.uwo.ca/ipb/databook/09/engltb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+497,https://www.uwo.ca/ipb/databook/09/filmtb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,FILM STUDIES
+498,https://www.uwo.ca/ipb/databook/09/frentb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,FRENCH STUDIES
+499,https://www.uwo.ca/ipb/databook/09/ws__tb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+500,https://www.uwo.ca/ipb/databook/09/mll_tb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,LANGUAGES and CULTURES
+501,https://www.uwo.ca/ipb/databook/09/philtb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,PHILOSOPHY
+502,https://www.uwo.ca/ipb/databook/09/vsartb09.html,Undergraduate Grade Distribution,ARTS and HUMANITIES,VISUAL ARTS
+503,https://www.uwo.ca/ipb/databook/09/aub_tb09.html,Undergraduate Grade Distribution,BUSINESS,BUSINESS
+504,https://www.uwo.ca/ipb/databook/09/auedtb09.html,Undergraduate Grade Distribution,EDUCATION,CROSS-UNIT TEACHING
+505,https://www.uwo.ca/ipb/databook/09/aue_tb09.html,Undergraduate Grade Distribution,ENGINEERING,ENGINEERING
+506,https://www.uwo.ca/ipb/databook/09/cheetb09.html,Undergraduate Grade Distribution,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+507,https://www.uwo.ca/ipb/databook/09/civetb09.html,Undergraduate Grade Distribution,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+508,https://www.uwo.ca/ipb/databook/09/eleetb09.html,Undergraduate Grade Distribution,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+509,https://www.uwo.ca/ipb/databook/09/m_metb09.html,Undergraduate Grade Distribution,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+510,https://www.uwo.ca/ipb/databook/09/bmeatb09.html,Undergraduate Grade Distribution,ENGINEERING,BIOMEDICAL ENGINEERING
+511,https://www.uwo.ca/ipb/databook/09/engstb09.html,Undergraduate Grade Distribution,ENGINEERING,ENGINEERING SCIENCE
+512,https://www.uwo.ca/ipb/databook/09/mse_tb09.html,Undergraduate Grade Distribution,ENGINEERING,MECHATRONIC SYSTEM ENGINEERING
+513,https://www.uwo.ca/ipb/databook/09/auhstb09.html,Undergraduate Grade Distribution,HEALTH SCIENCES,HEALTH SCIENCES
+514,https://www.uwo.ca/ipb/databook/09/bhsctb09.html,Undergraduate Grade Distribution,HEALTH SCIENCES,HEALTH STUDIES
+515,https://www.uwo.ca/ipb/databook/09/cd__tb09.html,Undergraduate Grade Distribution,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+516,https://www.uwo.ca/ipb/databook/09/kinetb09.html,Undergraduate Grade Distribution,HEALTH SCIENCES,KINESIOLOGY
+517,https://www.uwo.ca/ipb/databook/09/nurstb09.html,Undergraduate Grade Distribution,HEALTH SCIENCES,NURSING
+518,https://www.uwo.ca/ipb/databook/09/auimtb09.html,Undergraduate Grade Distribution,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+519,https://www.uwo.ca/ipb/databook/09/digitb09.html,Undergraduate Grade Distribution,INFORMATION and MEDIA STUDIES,DIGITAL COMMUNICATION
+520,https://www.uwo.ca/ipb/databook/09/mit_tb09.html,Undergraduate Grade Distribution,INFORMATION and MEDIA STUDIES,"MEDIA, INFORMATION and TECHNOCULTURE"
+521,https://www.uwo.ca/ipb/databook/09/aul_tb09.html,Undergraduate Grade Distribution,LAW,CROSS-UNIT TEACHING
+522,https://www.uwo.ca/ipb/databook/09/aum_tb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),BASIC MEDICAL SCIENCES
+523,https://www.uwo.ca/ipb/databook/09/anattb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+524,https://www.uwo.ca/ipb/databook/09/bioctb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+525,https://www.uwo.ca/ipb/databook/09/epidtb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+526,https://www.uwo.ca/ipb/databook/09/hms_tb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+527,https://www.uwo.ca/ipb/databook/09/bioptb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+528,https://www.uwo.ca/ipb/databook/09/m_i_tb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+529,https://www.uwo.ca/ipb/databook/09/pathtb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+530,https://www.uwo.ca/ipb/databook/09/p_p_tb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+531,https://www.uwo.ca/ipb/databook/09/imsatb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),INTERDISCIPLINARY MEDICAL SCIENCES
+532,https://www.uwo.ca/ipb/databook/09/neustb09.html,Undergraduate Grade Distribution,MEDICINE and DENTISTRY (MEDICINE),NEUROSCIENCE
+533,https://www.uwo.ca/ipb/databook/09/aumutb09.html,Undergraduate Grade Distribution,MUSIC,MUSIC
+534,https://www.uwo.ca/ipb/databook/09/aus_tb09.html,Undergraduate Grade Distribution,SCIENCE,SCIENCE
+535,https://www.uwo.ca/ipb/databook/09/appmtb09.html,Undergraduate Grade Distribution,SCIENCE,APPLIED MATHEMATICS
+536,https://www.uwo.ca/ipb/databook/09/bioltb09.html,Undergraduate Grade Distribution,SCIENCE,BIOLOGY
+537,https://www.uwo.ca/ipb/databook/09/chemtb09.html,Undergraduate Grade Distribution,SCIENCE,CHEMISTRY
+538,https://www.uwo.ca/ipb/databook/09/cscitb09.html,Undergraduate Grade Distribution,SCIENCE,COMPUTER SCIENCE
+539,https://www.uwo.ca/ipb/databook/09/escitb09.html,Undergraduate Grade Distribution,SCIENCE,EARTH SCIENCES
+540,https://www.uwo.ca/ipb/databook/09/mathtb09.html,Undergraduate Grade Distribution,SCIENCE,MATHEMATICS
+541,https://www.uwo.ca/ipb/databook/09/p_a_tb09.html,Undergraduate Grade Distribution,SCIENCE,PHYSICS and ASTRONOMY
+542,https://www.uwo.ca/ipb/databook/09/sas_tb09.html,Undergraduate Grade Distribution,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+543,https://www.uwo.ca/ipb/databook/09/envitb09.html,Undergraduate Grade Distribution,SCIENCE,ENVIRONMENTAL SCIENCE
+544,https://www.uwo.ca/ipb/databook/09/ausstb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,SOCIAL SCIENCE
+545,https://www.uwo.ca/ipb/databook/09/anthtb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,ANTHROPOLOGY
+546,https://www.uwo.ca/ipb/databook/09/econtb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,ECONOMICS
+547,https://www.uwo.ca/ipb/databook/09/geogtb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+548,https://www.uwo.ca/ipb/databook/09/histtb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,HISTORY
+549,https://www.uwo.ca/ipb/databook/09/caistb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+550,https://www.uwo.ca/ipb/databook/09/polstb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,POLITICAL SCIENCE
+551,https://www.uwo.ca/ipb/databook/09/psyctb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,PSYCHOLOGY
+552,https://www.uwo.ca/ipb/databook/09/soc_tb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,SOCIOLOGY
+553,https://www.uwo.ca/ipb/databook/09/as__tb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,AMERICAN STUDIES
+554,https://www.uwo.ca/ipb/databook/09/fnattb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,INDIGENOUS STUDIES
+555,https://www.uwo.ca/ipb/databook/09/ir__tb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,INTERNATIONAL RELATIONS
+556,https://www.uwo.ca/ipb/databook/09/ppe_tb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,"POLITICS, PHILOSOPHY and ECONOMICS"
+557,https://www.uwo.ca/ipb/databook/09/justtb09.html,Undergraduate Grade Distribution,SOCIAL SCIENCE,TRANSITIONAL JUSTICE and POST-CONFLICT RECONSTRUCTION
+558,https://www.uwo.ca/ipb/databook/09/se__tb09.html,Undergraduate Grade Distribution,SCHOLARS ELECTIVES,SCHOLARS ELECTIVES
+559,https://www.uwo.ca/ipb/databook/10/auartb10.html,Research Expenditures,ARTS and HUMANITIES,ARTS and HUMANITIES
+560,https://www.uwo.ca/ipb/databook/10/clsttb10.html,Research Expenditures,ARTS and HUMANITIES,CLASSICAL STUDIES
+561,https://www.uwo.ca/ipb/databook/10/engltb10.html,Research Expenditures,ARTS and HUMANITIES,ENGLISH and WRITING STUDIES
+562,https://www.uwo.ca/ipb/databook/10/filmtb10.html,Research Expenditures,ARTS and HUMANITIES,FILM STUDIES
+563,https://www.uwo.ca/ipb/databook/10/frentb10.html,Research Expenditures,ARTS and HUMANITIES,FRENCH STUDIES
+564,https://www.uwo.ca/ipb/databook/10/ws__tb10.html,Research Expenditures,ARTS and HUMANITIES,"GENDER, SEXUALITY, and WOMEN'S STUDIES"
+565,https://www.uwo.ca/ipb/databook/10/mll_tb10.html,Research Expenditures,ARTS and HUMANITIES,LANGUAGES and CULTURES
+566,https://www.uwo.ca/ipb/databook/10/philtb10.html,Research Expenditures,ARTS and HUMANITIES,PHILOSOPHY
+567,https://www.uwo.ca/ipb/databook/10/vsartb10.html,Research Expenditures,ARTS and HUMANITIES,VISUAL ARTS
+568,https://www.uwo.ca/ipb/databook/10/aub_tb10.html,Research Expenditures,BUSINESS,BUSINESS
+569,https://www.uwo.ca/ipb/databook/10/auedtb10.html,Research Expenditures,EDUCATION,EDUCATION
+570,https://www.uwo.ca/ipb/databook/10/aue_tb10.html,Research Expenditures,ENGINEERING,ENGINEERING
+571,https://www.uwo.ca/ipb/databook/10/cheetb10.html,Research Expenditures,ENGINEERING,CHEMICAL and BIOCHEMICAL ENGINEERING
+572,https://www.uwo.ca/ipb/databook/10/civetb10.html,Research Expenditures,ENGINEERING,CIVIL and ENVIRONMENTAL ENGINEERING
+573,https://www.uwo.ca/ipb/databook/10/eleetb10.html,Research Expenditures,ENGINEERING,ELECTRICAL and COMPUTER ENGINEERING
+574,https://www.uwo.ca/ipb/databook/10/m_metb10.html,Research Expenditures,ENGINEERING,MECHANICAL and MATERIALS ENGINEERING
+575,https://www.uwo.ca/ipb/databook/10/auhstb10.html,Research Expenditures,HEALTH SCIENCES,HEALTH SCIENCES
+576,https://www.uwo.ca/ipb/databook/10/bhsctb10.html,Research Expenditures,HEALTH SCIENCES,HEALTH STUDIES
+577,https://www.uwo.ca/ipb/databook/10/cd__tb10.html,Research Expenditures,HEALTH SCIENCES,COMMUNICATION SCIENCES and DISORDERS
+578,https://www.uwo.ca/ipb/databook/10/kinetb10.html,Research Expenditures,HEALTH SCIENCES,KINESIOLOGY
+579,https://www.uwo.ca/ipb/databook/10/nurstb10.html,Research Expenditures,HEALTH SCIENCES,NURSING
+580,https://www.uwo.ca/ipb/databook/10/ot__tb10.html,Research Expenditures,HEALTH SCIENCES,OCCUPATIONAL THERAPY
+581,https://www.uwo.ca/ipb/databook/10/pt__tb10.html,Research Expenditures,HEALTH SCIENCES,PHYSICAL THERAPY
+582,https://www.uwo.ca/ipb/databook/10/auimtb10.html,Research Expenditures,INFORMATION and MEDIA STUDIES,INFORMATION and MEDIA STUDIES
+583,https://www.uwo.ca/ipb/databook/10/aul_tb10.html,Research Expenditures,LAW,LAW
+584,https://www.uwo.ca/ipb/databook/10/aum_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),MEDICINE and DENTISTRY (MEDICINE)
+585,https://www.uwo.ca/ipb/databook/10/aud_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (DENTISTRY),MEDICINE and DENTISTRY (DENTISTRY)
+586,https://www.uwo.ca/ipb/databook/10/anaetb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),ANAESTHESIA and PERIOPERATIVE MEDICINE
+587,https://www.uwo.ca/ipb/databook/10/anattb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),ANATOMY and CELL BIOLOGY
+588,https://www.uwo.ca/ipb/databook/10/bioctb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),BIOCHEMISTRY
+589,https://www.uwo.ca/ipb/databook/10/clbitb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),CLINICAL BIOCHEMISTRY
+590,https://www.uwo.ca/ipb/databook/10/clnrtb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),CLINICAL NEUROLOGICAL SCIENCES
+591,https://www.uwo.ca/ipb/databook/10/radntb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),DIAGNOSTIC RADIOLOGY and NUCLEAR MEDICINE
+592,https://www.uwo.ca/ipb/databook/10/epidtb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),EPIDEMIOLOGY and BIOSTATISTICS
+593,https://www.uwo.ca/ipb/databook/10/fmedtb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),FAMILY MEDICINE
+594,https://www.uwo.ca/ipb/databook/10/hms_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),HISTORY OF MEDICINE
+595,https://www.uwo.ca/ipb/databook/10/bioptb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),MEDICAL BIOPHYSICS
+596,https://www.uwo.ca/ipb/databook/10/meddtb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),MEDICINE (DEPARTMENT)
+597,https://www.uwo.ca/ipb/databook/10/m_i_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),MICROBIOLOGY and IMMUNOLOGY
+598,https://www.uwo.ca/ipb/databook/10/obs_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),OBSTETRICS and GYNAECOLOGY
+599,https://www.uwo.ca/ipb/databook/10/radotb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),ONCOLOGY
+600,https://www.uwo.ca/ipb/databook/10/optitb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),OPHTHALMOLOGY
+601,https://www.uwo.ca/ipb/databook/10/oto_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),OTOLARYNGOLOGY - HEAD and NECK SURGERY
+602,https://www.uwo.ca/ipb/databook/10/ped_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),PAEDIATRICS
+603,https://www.uwo.ca/ipb/databook/10/pathtb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),PATHOLOGY and LABORATORY MEDICINE
+604,https://www.uwo.ca/ipb/databook/10/pmr_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),PHYSICAL MEDICINE and REHABILITATION
+605,https://www.uwo.ca/ipb/databook/10/p_p_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),PHYSIOLOGY and PHARMACOLOGY
+606,https://www.uwo.ca/ipb/databook/10/psy_tb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),PSYCHIATRY
+607,https://www.uwo.ca/ipb/databook/10/surgtb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),SURGERY
+608,https://www.uwo.ca/ipb/databook/10/robatb10.html,Research Expenditures,MEDICINE and DENTISTRY (MEDICINE),ROBARTS RESEARCH INSTITUTE
+609,https://www.uwo.ca/ipb/databook/10/aumutb10.html,Research Expenditures,MUSIC,MUSIC
+610,https://www.uwo.ca/ipb/databook/10/aus_tb10.html,Research Expenditures,SCIENCE,SCIENCE
+611,https://www.uwo.ca/ipb/databook/10/appmtb10.html,Research Expenditures,SCIENCE,APPLIED MATHEMATICS
+612,https://www.uwo.ca/ipb/databook/10/bioltb10.html,Research Expenditures,SCIENCE,BIOLOGY
+613,https://www.uwo.ca/ipb/databook/10/chemtb10.html,Research Expenditures,SCIENCE,CHEMISTRY
+614,https://www.uwo.ca/ipb/databook/10/cscitb10.html,Research Expenditures,SCIENCE,COMPUTER SCIENCE
+615,https://www.uwo.ca/ipb/databook/10/escitb10.html,Research Expenditures,SCIENCE,EARTH SCIENCES
+616,https://www.uwo.ca/ipb/databook/10/mathtb10.html,Research Expenditures,SCIENCE,MATHEMATICS
+617,https://www.uwo.ca/ipb/databook/10/p_a_tb10.html,Research Expenditures,SCIENCE,PHYSICS and ASTRONOMY
+618,https://www.uwo.ca/ipb/databook/10/sas_tb10.html,Research Expenditures,SCIENCE,STATISTICAL and ACTUARIAL SCIENCES
+619,https://www.uwo.ca/ipb/databook/10/ausstb10.html,Research Expenditures,SOCIAL SCIENCE,SOCIAL SCIENCE
+620,https://www.uwo.ca/ipb/databook/10/anthtb10.html,Research Expenditures,SOCIAL SCIENCE,ANTHROPOLOGY
+621,https://www.uwo.ca/ipb/databook/10/econtb10.html,Research Expenditures,SOCIAL SCIENCE,ECONOMICS
+622,https://www.uwo.ca/ipb/databook/10/geogtb10.html,Research Expenditures,SOCIAL SCIENCE,GEOGRAPHY and ENVIRONMENT
+623,https://www.uwo.ca/ipb/databook/10/histtb10.html,Research Expenditures,SOCIAL SCIENCE,HISTORY
+624,https://www.uwo.ca/ipb/databook/10/caistb10.html,Research Expenditures,SOCIAL SCIENCE,MANAGEMENT and ORGANIZATIONAL STUDIES
+625,https://www.uwo.ca/ipb/databook/10/polstb10.html,Research Expenditures,SOCIAL SCIENCE,POLITICAL SCIENCE
+626,https://www.uwo.ca/ipb/databook/10/psyctb10.html,Research Expenditures,SOCIAL SCIENCE,PSYCHOLOGY
+627,https://www.uwo.ca/ipb/databook/10/soc_tb10.html,Research Expenditures,SOCIAL SCIENCE,SOCIOLOGY
